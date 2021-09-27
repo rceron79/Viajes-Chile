@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+#fotonavbar {
+    height: 1em;
+    width: 1em;
+}
+
+#quienessomos {
+    color: white;
+    font-weight: lighter;
+}
+
+#quienessomos div:last-child div i {
+    text-align: center;
+}
+
+#destacados {
+    font-size: 0.8em;
+}
